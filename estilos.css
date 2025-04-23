@@ -1,0 +1,37 @@
+/* Estilos generales */
+Body {
+    Font-family: Arial, sans-serif;
+    Background-color: #f4f4f4;
+    Margin: 0;
+    Padding: 0;
+}
+
+/* Encabezado */
+.encabezado {
+    Background-color: #004d99;
+    Color: white;
+    Padding: 30px;
+    Text-align: center;
+}
+
+/* Contenido */
+Div {
+    Padding: 20px;
+}
+
+/* Tablas */
+Table {
+    Width: 100%;
+    Border-collapse: collapse;
+}
+
+Td, th {
+    Border: 1px solid #ccc;
+    Padding: 10px;
+}
+
+/* Formulario */
+Form {
+    Padding: 20px;
+    Background-color: #e6e6e6;
+}
